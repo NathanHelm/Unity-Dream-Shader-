@@ -11,4 +11,4 @@ This SHADER is rendered in Unity 6 (6000.0.35f) and uses the built-in render pip
 -change fidelity of textures by multiplying uv coords. This is pretty important for noise textures.
 
 ## Credit ##
--If you want to use this shader for your game or have some other use of it... it would be an honour. 🥹
+- If you want to use this shader for your game or have some other use of it... it would be an honour. 🥹
